@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.mainSection {
+  padding: 200px 0px 0px 100px;
+}
+
+#demo2,
+#fruits {
+  color: red;
+}
